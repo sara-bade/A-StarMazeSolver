@@ -46,7 +46,7 @@ _maze = [
     "XX XXXX XXXXXX XX XXX X",
     "XX XXXX XXXXXX XX XXX X",
     "XX XXXX XXXXXX XX XXX X",
-    "XXX    XXXXXXX         ",
+    "XXX    X               ",
     "XXXXXXXXXXXXXXXXXXXXXXX"
 ]
 
